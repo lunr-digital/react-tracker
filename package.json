@@ -1,6 +1,6 @@
 {
     "name": "@lunrdigital/react-tracker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Component level tracking using context",
     "main": "dist/index.js",
     "scripts": {
