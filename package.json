@@ -5,6 +5,7 @@
     "main": "dist/index.js",
     "scripts": {
         "build": "NODE_ENV=production babel src/index.js --out-dir dist",
+        "lint": "eslint ./",
         "test": "jest"
     },
     "repository": {
